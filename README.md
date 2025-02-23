@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad Adham!  
 
-<!--
-**A7mad-Alone/A7mad-Alone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Electronics & Communications Engineering Student @ AASTMT**  
+🔒 **Aspiring Cybersecurity Specialist | Programmer | Problem-Solver**  
 
-Here are some ideas to get you started:
+## 🔧 What I Do:  
+- 💻 **Programming:** C++ | Java | Python *(Currently improving!)*  
+- 🎮 **Minecraft Modding:** Exploring Java-based mod development  
+- 🔬 **Projects:** Built a **Bluetooth joystick-controlled mouse & keyboard** system with a Python GUI  
+- 🛠 **Skills:** Troubleshooting, problem-solving, and always eager to learn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals:  
+- Specialize in **Cybersecurity**  
+- Improve my **Java & Python** skills  
+- Create more **Minecraft mods**  
+
+💡 **Fun fact:** I'm stubborn when it comes to getting things done!  
+
+📫 **Let's Connect!**  
+https://www.linkedin.com/in/a7mad-alone-6666402a4/ | ahmadadham09@hotmail.com
