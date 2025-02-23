@@ -17,4 +17,4 @@
 💡 **Fun fact:** I'm stubborn when it comes to getting things done!  
 
 📫 **Let's Connect!**  
-https://www.linkedin.com/in/a7mad-alone-6666402a4/ | ahmadadham09@hotmail.com
+https://www.linkedin.com/in/a7mad-alone-6666402a4/ | ahmadadham09work@outlook.com
