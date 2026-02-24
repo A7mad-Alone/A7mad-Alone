@@ -51,4 +51,4 @@
 ---
 
 📫 **Let’s Connect!**  
-  🌐 [LinkedIn](https://www.linkedin.com/in/ahmad-adham-badawy)    | 📧 **ahmadadham09work@hotmail.com**
+  🌐 [Linktree](https://linktr.ee/ahmad_adham)
